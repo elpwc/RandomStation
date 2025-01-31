@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>[自分用] Random Station in Tokyo</title>
+    <link rel="stylesheet" type="text/css" href="./static/main.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <!-- Make sure you put this AFTER Leaflet's CSS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  </head>
+  <body>
+    <main>
+      <div style="padding: 10px 20px; display: flex; flex-direction: row; gap: 10px; align-items: center;">
+        <button onclick="onRandomStationButtonClick()">Random Station</button>
+        <p class="stationname" style="font-size: 20px;">←釦を押して下さい</p>
+      </div>
+      <div>
+        <div id="map"></div>
+      </div>
+    </main>
+
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+  <script src="./static/main.js"></script>
+  </body>
+</html>

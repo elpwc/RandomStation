@@ -1,0 +1,3283 @@
+{
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7709817, 35.7283798] },
+			"properties": { "addr:province": "東京都", "name": "日暮里", "name_hira": "にっぽり", "operator": ["京成電鉄", "東日本旅客鉄道", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7746303, 35.7069531] },
+			"properties": { "addr:province": "東京都", "name": "御徒町", "name_hira": "おかちまち", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7766557, 35.7133757] },
+			"properties": { "addr:province": "東京都", "name": "上野", "name_hira": "", "operator": ["", "東京地下鉄", "東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7779486, 35.7216638] },
+			"properties": { "addr:province": "東京都", "name": "鶯谷", "name_hira": "うぐいすだに", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7667061, 35.7321417] },
+			"properties": { "addr:province": "東京都", "name": "西日暮里", "name_hira": "にしにっぽり", "operator": ["東日本旅客鉄道", "東京都交通局", "東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7617151, 35.7373701] },
+			"properties": { "addr:province": "東京都", "name": "田端", "name_hira": "たばた", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7472412, 35.7365848] },
+			"properties": { "addr:province": "東京都", "name": "駒込", "name_hira": "こまごめ", "operator": ["東日本旅客鉄道", ""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7394273, 35.7334119] },
+			"properties": { "addr:province": "東京都", "name": "巣鴨", "name_hira": "すがも", "operator": ["東日本旅客鉄道", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7283438, 35.7317401] },
+			"properties": { "addr:province": "東京都", "name": "大塚", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7002421, 35.7013007] },
+			"properties": { "addr:province": "東京都", "name": "新大久保", "name_hira": "しんおおくぼ", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7777743, 35.7332922] },
+			"properties": { "addr:province": "東京都", "name": "三河島", "name_hira": "みかわしま", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7285191, 35.619399] },
+			"properties": { "addr:province": "東京都", "name": "大崎", "name_hira": "おおさき", "operator": ["東日本旅客鉄道;東京臨海高速鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7017546, 35.6580785] },
+			"properties": { "addr:province": "東京都", "name": "渋谷", "name_hira": "", "operator": ["", "京王電鉄", "東京地下鉄", "東急電鉄", ""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6988317, 35.6441395] },
+			"properties": { "addr:province": "東京都", "name": "中目黒", "name_hira": "", "operator": ["東京急行電鉄;東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7950674, 35.6722878] },
+			"properties": { "addr:province": "東京都", "name": "門前仲町", "name_hira": "", "operator": ["東京地下鉄", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7086461, 35.6469738] },
+			"properties": { "addr:province": "東京都", "name": "恵比寿", "name_hira": "", "operator": ["東京地下鉄", "東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4240653, 35.6934503] },
+			"properties": { "addr:province": "東京都", "name": "西国立", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4771023, 35.6661049] },
+			"properties": { "addr:province": "東京都", "name": "府中本町", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7157717, 35.6325078] },
+			"properties": { "addr:province": "東京都", "name": "目黒", "name_hira": "", "operator": ["東京地下鉄", ""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3309341, 35.6312559] },
+			"properties": { "addr:province": "東京都", "name": "八王子みなみ野", "name_hira": "はちおうじみなみの", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3414342, 35.6398013] },
+			"properties": { "addr:province": "東京都", "name": "片倉", "name_hira": "かたくら", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3316885, 35.6068438] },
+			"properties": { "addr:province": "東京都", "name": "相原", "name_hira": "あいはら", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4483564, 35.6302581] },
+			"properties": { "addr:province": "東京都", "name": "京王永山", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5448061, 35.6517768] },
+			"properties": { "addr:province": "東京都", "name": "調布", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4178727, 35.7322373] },
+			"properties": { "addr:province": "東京都", "name": "玉川上水", "name_hira": "", "operator": ["多摩都市モノレール", "西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4151494, 35.66128] },
+			"properties": { "addr:province": "東京都", "name": "高幡不動", "name_hira": "", "operator": ["多摩都市モノレール", "京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4124953, 35.6994167] },
+			"properties": { "addr:province": "東京都", "name": "立川北", "name_hira": "", "operator": ["多摩都市モノレール"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4111316, 35.6158467] },
+			"properties": { "addr:province": "東京都", "name": "唐木田", "name_hira": "", "operator": ["小田急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5984996, 35.639911] },
+			"properties": { "addr:province": "東京都", "name": "成城学園前", "name_hira": "", "operator": ["小田急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4815846, 35.5831605] },
+			"properties": { "addr:province": "東京都", "name": "鶴川", "name_hira": "", "operator": ["小田急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4635093, 35.5636258] },
+			"properties": { "addr:province": "東京都", "name": "玉川学園前", "name_hira": "", "operator": ["小田急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6542752, 35.6562022] },
+			"properties": { "addr:province": "東京都", "name": "梅ヶ丘", "name_hira": "うめがおか", "operator": ["小田急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6097735, 35.6432912] },
+			"properties": { "addr:province": "東京都", "name": "祖師ヶ谷大蔵", "name_hira": "", "operator": ["小田急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6888398, 35.6696211] },
+			"properties": { "addr:province": "東京都", "name": "代々木八幡", "name_hira": "", "operator": ["小田急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6366816, 35.65135] },
+			"properties": { "addr:province": "東京都", "name": "経堂", "name_hira": "", "operator": ["小田急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6238778, 35.647409] },
+			"properties": { "addr:province": "東京都", "name": "千歳船橋", "name_hira": "", "operator": ["小田急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5774163, 35.632321] },
+			"properties": { "addr:province": "東京都", "name": "狛江", "name_hira": "", "operator": ["小田急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.679787, 35.669008] },
+			"properties": { "addr:province": "東京都", "name": "代々木上原", "name_hira": "", "operator": ["小田急電鉄;東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6468966, 35.6535438] },
+			"properties": { "addr:province": "東京都", "name": "豪徳寺", "name_hira": "", "operator": ["小田急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.530194, 35.6570625] },
+			"properties": { "addr:province": "東京都", "name": "西調布", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.699177, 35.6886028] },
+			"properties": { "addr:province": "東京都", "name": "新線新宿", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5109606, 35.6642284] },
+			"properties": { "addr:province": "東京都", "name": "武蔵野台", "name_hira": "むさしのだい", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5232311, 35.6602521] },
+			"properties": { "addr:province": "東京都", "name": "飛田給", "name_hira": "とびたきゅう", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.2933098, 35.6405959] },
+			"properties": { "addr:province": "東京都", "name": "狭間", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.30772, 35.6434031] },
+			"properties": { "addr:province": "東京都", "name": "めじろ台", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3211783, 35.6444148] },
+			"properties": { "addr:province": "東京都", "name": "山田", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3370743, 35.6443504] },
+			"properties": { "addr:province": "東京都", "name": "京王片倉", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3467422, 35.7713447] },
+			"properties": { "addr:province": "東京都", "name": "箱根ヶ崎", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3634112, 35.6693571] },
+			"properties": { "addr:province": "東京都", "name": "北八王子", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3688288, 35.6855706] },
+			"properties": { "addr:province": "東京都", "name": "小宮", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3359519, 35.7457424] },
+			"properties": { "addr:province": "東京都", "name": "東福生", "name_hira": "ひがしふっさ", "operator": ["East Japan Railway"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3608938, 35.7135703] },
+			"properties": { "addr:province": "東京都", "name": "昭島", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8121358, 35.7446629] },
+			"properties": { "addr:province": "東京都", "name": "牛田", "name_hira": "", "operator": ["東武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4228734, 35.6239385] },
+			"properties": { "addr:province": "東京都", "name": "多摩センター", "name_hira": "", "operator": ["多摩都市モノレール"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4893214, 35.656312] },
+			"properties": { "addr:province": "東京都", "name": "是政", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7236813, 35.6261984] },
+			"properties": { "addr:province": "東京都", "name": "五反田", "name_hira": "ごたんだ", "operator": ["東日本旅客鉄道", "東京都交通局", "東急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.2281606, 35.7323496] },
+			"properties": { "addr:province": "東京都", "name": "武蔵五日市", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7184084, 35.6992849] },
+			"properties": { "addr:province": "東京都", "name": "若松河田", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7367734, 35.7524438] },
+			"properties": { "addr:province": "東京都", "name": "山頂駅", "name_hira": "さんちょう", "operator": ["東京都北区"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7370704, 35.7527009] },
+			"properties": { "addr:province": "東京都", "name": "公園入口駅", "name_hira": "こうえん いりぐち", "operator": ["東京都北区"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.496609, 35.7785324] },
+			"properties": { "addr:province": "東京都", "name": "秋津", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6061566, 35.7438271] },
+			"properties": { "addr:province": "東京都", "name": "石神井公園", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6300042, 35.7359523] },
+			"properties": { "addr:province": "東京都", "name": "富士見台", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6163048, 35.7409213] },
+			"properties": { "addr:province": "東京都", "name": "練馬高野台", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6948922, 35.7264476] },
+			"properties": { "addr:province": "東京都", "name": "椎名町", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7110372, 35.7280917] },
+			"properties": { "addr:province": "東京都", "name": "池袋", "name_hira": "いけぶくろ", "operator": ["西武鉄道", "", "東京地下鉄", "東日本旅客鉄道", "東京メトロ", "Tojoouter"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.2669995, 35.6311961] },
+			"properties": { "addr:province": "東京都", "name": "清滝", "name_hira": "きよたき", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.2560849, 35.6310687] },
+			"properties": { "addr:province": "東京都", "name": "高尾山", "name_hira": "たかおさん", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7707277, 35.814493] },
+			"properties": { "addr:province": "東京都", "name": "見沼代親水公園", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.1613433, 35.7960037] },
+			"properties": { "addr:province": "東京都", "name": "滝本", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.1536401, 35.7897155] },
+			"properties": { "addr:province": "東京都", "name": "御岳山", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8051344, 35.7495945] },
+			"properties": { "addr:province": "東京都", "name": "北千住", "name_hira": "きたせんじゅ", "operator": ["東武鉄道", "東京地下鉄", "JR", "東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8704721, 35.7686276] },
+			"properties": { "addr:province": "東京都", "name": "京成金町", "name_hira": "", "operator": ["京成電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7599627, 35.7066386] },
+			"properties": { "addr:province": "東京都", "name": "本郷三丁目", "name_hira": "", "operator": ["東京地下鉄", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7064823, 35.7211861] },
+			"properties": { "addr:province": "東京都", "name": "目白", "name_hira": "めじろ", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4573627, 35.6709866] },
+			"properties": { "addr:province": "東京都", "name": "西府", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7357178, 35.7650552] },
+			"properties": { "addr:province": "東京都", "name": "王子神谷", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8267172, 35.6973248] },
+			"properties": { "addr:province": "東京都", "name": "亀戸", "name_hira": "かめいど", "operator": ["東日本旅客鉄道", "東武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6268002, 35.6117897] },
+			"properties": { "addr:province": "東京都", "name": "二子玉川", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7990037, 35.7332554] },
+			"properties": { "addr:province": "東京都", "name": "南千住", "name_hira": "みなみせんじゅ", "operator": ["東日本旅客鉄道", "東京地下鉄", "首都圏新都市鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7581767, 35.7173365] },
+			"properties": { "addr:province": "東京都", "name": "東大前", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6915101, 35.7911796] },
+			"properties": { "addr:province": "東京都", "name": "浮間舟渡", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7060288, 35.7867812] },
+			"properties": { "addr:province": "東京都", "name": "北赤羽", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7915752, 35.7321207] },
+			"properties": { "addr:province": "東京都", "name": "三ノ輪橋", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7889304, 35.7337167] },
+			"properties": { "addr:province": "東京都", "name": "荒川一中前", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7846639, 35.7386835] },
+			"properties": { "addr:province": "東京都", "name": "荒川二丁目", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7864577, 35.7349219] },
+			"properties": { "addr:province": "東京都", "name": "荒川区役所前", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7809588, 35.742778] },
+			"properties": { "addr:province": "東京都", "name": "町屋駅前", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7422541, 35.7509144] },
+			"properties": { "addr:province": "東京都", "name": "栄町", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7478469, 35.7510769] },
+			"properties": { "addr:province": "東京都", "name": "梶原", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7353992, 35.7473062] },
+			"properties": { "addr:province": "東京都", "name": "滝野川一丁目", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7373997, 35.7501777] },
+			"properties": { "addr:province": "東京都", "name": "飛鳥山", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8593173, 35.6645795] },
+			"properties": { "addr:province": "東京都", "name": "西葛西", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8318642, 35.6683446] },
+			"properties": { "addr:province": "東京都", "name": "南砂町", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8174761, 35.6695961] },
+			"properties": { "addr:province": "東京都", "name": "東陽町", "name_hira": "とうようちょう", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8726921, 35.6636282] },
+			"properties": { "addr:province": "東京都", "name": "葛西", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8065455, 35.669416] },
+			"properties": { "addr:province": "東京都", "name": "木場", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7664613, 35.6846087] },
+			"properties": { "addr:province": "東京都", "name": "大手町", "name_hira": "", "operator": ["東京地下鉄", "東京地下鉄", "東京地下鉄", "東京都交通局", "東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7006009, 35.6922273] },
+			"properties": { "addr:province": "東京都", "name": "新宿", "name_hira": "", "operator": ["東京地下鉄", "JR東日本", "", "東京都交通局", "JR東日本", ""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7821879, 35.6862799] },
+			"properties": { "addr:province": "東京都", "name": "人形町", "name_hira": "にんぎょうちょう", "operator": ["", "東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7669476, 35.6696837] },
+			"properties": { "addr:province": "東京都", "name": "東銀座", "name_hira": "", "operator": ["東京地下鉄", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7725918, 35.6680848] },
+			"properties": { "addr:province": "東京都", "name": "築地", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.689366, 35.7383242] },
+			"properties": { "addr:province": "東京都", "name": "千川", "name_hira": "", "operator": ["東京メトロ"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7193857, 35.7256214] },
+			"properties": { "addr:province": "東京都", "name": "東池袋", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7415775, 35.6779456] },
+			"properties": { "addr:province": "東京都", "name": "永田町", "name_hira": "", "operator": ["東京地下鉄", "", ""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6986842, 35.7332405] },
+			"properties": { "addr:province": "東京都", "name": "要町", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7734197, 35.6706344] },
+			"properties": { "addr:province": "東京都", "name": "新富町", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7844793, 35.6641695] },
+			"properties": { "addr:province": "東京都", "name": "月島", "name_hira": "", "operator": ["東京都交通局", "東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7369396, 35.7171896] },
+			"properties": { "addr:province": "東京都", "name": "茗荷谷", "name_hira": "みょうがだに", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7730743, 35.6849516] },
+			"properties": { "addr:province": "東京都", "name": "三越前", "name_hira": "", "operator": ["東京地下鉄", "東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7547098, 35.6569261] },
+			"properties": { "addr:province": "東京都", "name": "大門", "name_hira": "", "operator": ["東京都交通局", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.72926, 35.7314483] },
+			"properties": { "addr:province": "東京都", "name": "大塚駅前", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8615992, 35.6444075] },
+			"properties": { "addr:province": "東京都", "name": "葛西臨海公園", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6859133, 35.7106637] },
+			"properties": { "addr:province": "東京都", "name": "落合", "name_hira": "おちあい", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.707695, 35.698933] },
+			"properties": { "addr:province": "東京都", "name": "東新宿", "name_hira": "", "operator": ["東京地下鉄", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7147782, 35.7202465] },
+			"properties": { "addr:province": "東京都", "name": "雑司が谷", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8218681, 35.7848565] },
+			"properties": { "addr:province": "東京都", "name": "六町", "name_hira": "", "operator": ["首都圏新都市鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8203104, 35.7717439] },
+			"properties": { "addr:province": "東京都", "name": "青井", "name_hira": "", "operator": ["首都圏新都市鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7265652, 35.6381027] },
+			"properties": { "addr:province": "東京都", "name": "白金台", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7150774, 35.616206] },
+			"properties": { "addr:province": "東京都", "name": "戸越銀座", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.766706, 35.6812546] },
+			"properties": { "addr:province": "東京都", "name": "東京", "name_hira": "とうきょう", "operator": ["東日本旅客鉄道", "東京地下鉄", "東日本旅客鉄道", "東海旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.734168, 35.6429531] },
+			"properties": { "addr:province": "東京都", "name": "白金高輪", "name_hira": "", "operator": ["東京都交通局", "東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7845835, 35.5491518] },
+			"properties": { "addr:province": "東京都", "name": "羽田空港第1ターミナル", "name_hira": "はねだくうこうだいいちたーみなる", "operator": ["東京モノレール"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7881123, 35.5508303] },
+			"properties": { "addr:province": "東京都", "name": "羽田空港第2ターミナル", "name_hira": "はねだくうこうだいにたーみなる", "operator": ["東京モノレール"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7870114, 35.5428136] },
+			"properties": { "addr:province": "東京都", "name": "新整備場", "name_hira": "", "operator": ["東京モノレール"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6668251, 35.6611308] },
+			"properties": { "addr:province": "東京都", "name": "下北沢", "name_hira": "しもきたざわ", "operator": ["小田急電鉄", "京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6724693, 35.6651123] },
+			"properties": { "addr:province": "東京都", "name": "東北沢", "name_hira": "", "operator": ["小田急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7207999, 35.7781394] },
+			"properties": { "addr:province": "東京都", "name": "赤羽", "name_hira": "あかばね", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.881843, 35.7332364] },
+			"properties": { "addr:province": "東京都", "name": "小岩", "name_hira": "こいわ", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5865223, 35.7495045] },
+			"properties": { "addr:province": "東京都", "name": "大泉学園", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6991763, 35.6931366] },
+			"properties": { "addr:province": "東京都", "name": "新宿西口", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7255744, 35.6994561] },
+			"properties": { "addr:province": "東京都", "name": "牛込柳町", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7359501, 35.7009139] },
+			"properties": { "addr:province": "東京都", "name": "牛込神楽坂", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7735044, 35.7109406] },
+			"properties": { "addr:province": "東京都", "name": "京成上野", "name_hira": "", "operator": ["京成電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4451335, 35.544056] },
+			"properties": { "addr:province": "東京都", "name": "町田", "name_hira": "", "operator": ["小田急電鉄", "東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6544258, 35.7902142] },
+			"properties": { "addr:province": "東京都", "name": "新高島平", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7685994, 35.543893] },
+			"properties": { "addr:province": "東京都", "name": "羽田空港第3ターミナル", "name_hira": "", "operator": ["東京モノレール株式会社", "京浜急行電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8560545, 35.7455741] },
+			"properties": { "addr:province": "東京都", "name": "青砥", "name_hira": "あおと", "operator": ["京成電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8671221, 35.7509396] },
+			"properties": { "addr:province": "東京都", "name": "京成高砂", "name_hira": "けいせいたかさご", "operator": ["京成電鉄;北総鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8197495, 35.7181883] },
+			"properties": { "addr:province": "東京都", "name": "京成曳舟", "name_hira": "", "operator": ["京成電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8751807, 35.7564295] },
+			"properties": { "addr:province": "東京都", "name": "柴又", "name_hira": "しばまた", "operator": ["京成電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7241268, 35.561334] },
+			"properties": { "addr:province": "東京都", "name": "京急蒲田", "name_hira": "", "operator": ["京浜急行電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7380078, 35.6280038] },
+			"properties": { "addr:province": "東京都", "name": "品川", "name_hira": "しながわ", "operator": ["京浜急行電鉄", "東日本旅客鉄道", "JR東海"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7392733, 35.6220705] },
+			"properties": { "addr:province": "東京都", "name": "北品川", "name_hira": "", "operator": ["京浜急行電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7422644, 35.6050235] },
+			"properties": { "addr:province": "東京都", "name": "鮫洲", "name_hira": "", "operator": ["京浜急行電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7389803, 35.5986986] },
+			"properties": { "addr:province": "東京都", "name": "立会川", "name_hira": "", "operator": ["京浜急行電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7570622, 35.6551111] },
+			"properties": { "addr:province": "東京都", "name": "浜松町", "name_hira": "はままつちょう", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7356237, 35.6911864] },
+			"properties": { "addr:province": "東京都", "name": "市ケ谷", "name_hira": "いちがや", "operator": ["", "東京メト", "東京地下鉄", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.770917, 35.6917842] },
+			"properties": { "addr:province": "東京都", "name": "神田", "name_hira": "かんだ", "operator": ["東日本旅客鉄道", "東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6499648, 35.7055421] },
+			"properties": { "addr:province": "東京都", "name": "高円寺", "name_hira": "こうえんじ", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6201587, 35.7044803] },
+			"properties": { "addr:province": "東京都", "name": "荻窪", "name_hira": "おぎくぼ", "operator": ["東日本旅客鉄道", "東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7929596, 35.6957996] },
+			"properties": { "addr:province": "東京都", "name": "両国", "name_hira": "りょうごく", "operator": ["東日本旅客鉄道", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7113311, 35.6812658] },
+			"properties": { "addr:province": "東京都", "name": "千駄ケ谷", "name_hira": "せんだがや", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7536358, 35.7020419] },
+			"properties": { "addr:province": "東京都", "name": "水道橋", "name_hira": "すいどうばし", "operator": ["東日本旅客鉄道", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7020806, 35.6839514] },
+			"properties": { "addr:province": "東京都", "name": "代々木", "name_hira": "よよぎ", "operator": ["東日本旅客鉄道", ""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7631061, 35.6748872] },
+			"properties": { "addr:province": "東京都", "name": "有楽町", "name_hira": "ゆうらくちょう", "operator": ["東日本旅客鉄道", "東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7325256, 35.7779045] },
+			"properties": { "addr:province": "東京都", "name": "志茂", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6354724, 35.7048403] },
+			"properties": { "addr:province": "東京都", "name": "阿佐ケ谷", "name_hira": "あさがや", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3394669, 35.655389] },
+			"properties": { "addr:province": "東京都", "name": "八王子", "name_hira": "はちおうじ", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5243396, 35.7016087] },
+			"properties": { "addr:province": "東京都", "name": "東小金井", "name_hira": "ひがしこがねい", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3940441, 35.6793418] },
+			"properties": { "addr:province": "東京都", "name": "日野", "name_hira": "ひの", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7440022, 35.7007418] },
+			"properties": { "addr:province": "東京都", "name": "飯田橋", "name_hira": "いいだばし", "operator": ["", "東京地下鉄", "東京地下鉄", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5803077, 35.7031413] },
+			"properties": { "addr:province": "東京都", "name": "吉祥寺", "name_hira": "きちじょうじ", "operator": ["東日本旅客鉄道", "京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4804328, 35.7000276] },
+			"properties": { "addr:province": "東京都", "name": "国分寺", "name_hira": "こくぶんじ", "operator": ["東日本旅客鉄道", "西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4467426, 35.6992877] },
+			"properties": { "addr:province": "東京都", "name": "国立", "name_hira": "くにたち", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.560901, 35.7027148] },
+			"properties": { "addr:province": "東京都", "name": "三鷹", "name_hira": "みたか", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5068418, 35.7011279] },
+			"properties": { "addr:province": "東京都", "name": "武蔵小金井", "name_hira": "むさしこがねい", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5438692, 35.702047] },
+			"properties": { "addr:province": "東京都", "name": "武蔵境", "name_hira": "むさしさかい", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.665633, 35.7058302] },
+			"properties": { "addr:province": "東京都", "name": "中野", "name_hira": "なかの", "operator": ["東日本旅客鉄道;東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4660067, 35.6997985] },
+			"properties": { "addr:province": "東京都", "name": "西国分寺", "name_hira": "にしこくぶんじ", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5996053, 35.7037331] },
+			"properties": { "addr:province": "東京都", "name": "西荻窪", "name_hira": "にしおぎくぼ", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.312459, 35.6564769] },
+			"properties": { "addr:province": "東京都", "name": "西八王子", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7649486, 35.6996103] },
+			"properties": { "addr:province": "東京都", "name": "御茶ノ水", "name_hira": "おちゃのみず", "operator": ["東日本旅客鉄道", "東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4135537, 35.69797] },
+			"properties": { "addr:province": "東京都", "name": "立川", "name_hira": "たちかわ", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7038744, 35.7126401] },
+			"properties": { "addr:province": "東京都", "name": "高田馬場", "name_hira": "たかだのばば", "operator": ["西武鉄道", "東日本旅客鉄道", "東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3814849, 35.6595146] },
+			"properties": { "addr:province": "東京都", "name": "豊田", "name_hira": "とよだ", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6612181, 35.6054056] },
+			"properties": { "addr:province": "東京都", "name": "九品仏", "name_hira": "くほんぶつ", "operator": ["東急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6480235, 35.608362] },
+			"properties": { "addr:province": "東京都", "name": "等々力", "name_hira": "とどろき", "operator": ["東急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6795267, 35.7433734] },
+			"properties": { "addr:province": "東京都", "name": "小竹向原", "name_hira": "", "operator": ["西武鉄道;東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7421722, 35.7460496] },
+			"properties": { "addr:province": "東京都", "name": "西ケ原", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7268749, 35.7638484] },
+			"properties": { "addr:province": "東京都", "name": "東十条", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7690418, 35.7428607] },
+			"properties": { "addr:province": "東京都", "name": "赤土小学校前", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7148568, 35.7202125] },
+			"properties": { "addr:province": "東京都", "name": "鬼子母神前", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6687943, 35.5896908] },
+			"properties": { "addr:province": "東京都", "name": "多摩川", "name_hira": "", "operator": ["東京急行電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8272901, 35.6461392] },
+			"properties": { "addr:province": "東京都", "name": "新木場", "name_hira": "", "operator": ["東京臨海高速鉄道", "東日本旅客鉄道", "東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7196963, 35.7456743] },
+			"properties": { "addr:province": "東京都", "name": "板橋", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8171968, 35.6589236] },
+			"properties": { "addr:province": "東京都", "name": "潮見", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7926094, 35.6679059] },
+			"properties": { "addr:province": "東京都", "name": "越中島", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7794236, 35.6802291] },
+			"properties": { "addr:province": "東京都", "name": "茅場町", "name_hira": "", "operator": ["東京地下鉄", "東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7767536, 35.7437837] },
+			"properties": { "addr:province": "東京都", "name": "町屋二丁目", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7841403, 35.741991] },
+			"properties": { "addr:province": "東京都", "name": "荒川七丁目", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6612148, 35.6582416] },
+			"properties": { "addr:province": "東京都", "name": "世田谷代田", "name_hira": "", "operator": ["小田急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6646063, 35.7192687] },
+			"properties": { "addr:province": "東京都", "name": "沼袋", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.424397, 35.6253226] },
+			"properties": { "addr:province": "東京都", "name": "京王多摩センター", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4245522, 35.6250229] },
+			"properties": { "addr:province": "東京都", "name": "小田急多摩センター", "name_hira": "", "operator": ["小田急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6157094, 35.6698828] },
+			"properties": { "addr:province": "東京都", "name": "八幡山", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7299237, 35.6849915] },
+			"properties": { "addr:province": "東京都", "name": "四ツ谷", "name_hira": "", "operator": ["東京地下鉄", "", ""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.734319, 35.6076529] },
+			"properties": { "addr:province": "東京都", "name": "大井町", "name_hira": "おおいまち", "operator": ["東急電鉄", "東日本旅客鉄道", "東京臨海高速鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3922831, 35.7289155] },
+			"properties": { "addr:province": "東京都", "name": "武蔵砂川", "name_hira": "むさしすながわ", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7813002, 35.6247543] },
+			"properties": { "addr:province": "東京都", "name": "青海", "name_hira": "", "operator": ["ゆりかもめ"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7714216, 35.6259018] },
+			"properties": { "addr:province": "東京都", "name": "台場", "name_hira": "", "operator": ["ゆりかもめ"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7730812, 35.621401] },
+			"properties": { "addr:province": "東京都", "name": "東京国際クルーズターミナル", "name_hira": "", "operator": ["ゆりかもめ"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7787386, 35.6298721] },
+			"properties": { "addr:province": "東京都", "name": "お台場海浜公園", "name_hira": "", "operator": ["ゆりかもめ"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7932562, 35.6345562] },
+			"properties": { "addr:province": "東京都", "name": "有明", "name_hira": "", "operator": ["ゆりかもめ"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7887923, 35.6401034] },
+			"properties": { "addr:province": "東京都", "name": "有明テニスの森", "name_hira": "", "operator": ["ゆりかもめ"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7590999, 35.6491888] },
+			"properties": { "addr:province": "東京都", "name": "日の出", "name_hira": "", "operator": ["ゆりかもめ"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7913701, 35.630197] },
+			"properties": { "addr:province": "東京都", "name": "東京ビッグサイト", "name_hira": "", "operator": ["ゆりかもめ"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7577718, 35.6417379] },
+			"properties": { "addr:province": "東京都", "name": "芝浦ふ頭", "name_hira": "", "operator": ["ゆりかもめ"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7857992, 35.645771] },
+			"properties": { "addr:province": "東京都", "name": "市場前", "name_hira": "", "operator": ["ゆりかもめ"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7598936, 35.6653482] },
+			"properties": { "addr:province": "東京都", "name": "新橋", "name_hira": "", "operator": ["ゆりかもめ", "東日本旅客鉄道", "東京地下鉄", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.790212, 35.6487704] },
+			"properties": { "addr:province": "東京都", "name": "新豊洲", "name_hira": "", "operator": ["ゆりかもめ"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7599723, 35.662907] },
+			"properties": { "addr:province": "東京都", "name": "汐留", "name_hira": "", "operator": ["ゆりかもめ", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.761907, 35.6539736] },
+			"properties": { "addr:province": "東京都", "name": "竹芝", "name_hira": "", "operator": ["ゆりかもめ"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7794436, 35.6175656] },
+			"properties": { "addr:province": "東京都", "name": "テレコムセンター", "name_hira": "", "operator": ["ゆりかもめ"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7954103, 35.6537483] },
+			"properties": { "addr:province": "東京都", "name": "豊洲", "name_hira": "", "operator": ["ゆりかもめ", "東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4728465, 35.5353877] },
+			"properties": { "addr:province": "東京都", "name": "成瀬", "name_hira": "なるせ", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7158191, 35.5620151] },
+			"properties": { "addr:province": "東京都", "name": "蒲田", "name_hira": "", "operator": ["東日本旅客鉄道", "東急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7469796, 35.746579] },
+			"properties": { "addr:province": "東京都", "name": "上中里", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7382749, 35.7523466] },
+			"properties": { "addr:province": "東京都", "name": "王子", "name_hira": "", "operator": ["東日本旅客鉄道", "東京メトロ"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7279334, 35.5884735] },
+			"properties": { "addr:province": "東京都", "name": "大森", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3436264, 35.7211328] },
+			"properties": { "addr:province": "東京都", "name": "拝島", "name_hira": "", "operator": ["東日本旅客鉄道", "西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7814629, 35.7788753] },
+			"properties": { "addr:province": "東京都", "name": "大師前", "name_hira": "", "operator": ["東武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.790321, 35.777253] },
+			"properties": { "addr:province": "東京都", "name": "西新井", "name_hira": "", "operator": ["東武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8318015, 35.7070671] },
+			"properties": { "addr:province": "東京都", "name": "東あずま", "name_hira": "", "operator": ["東武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8167501, 35.7183056] },
+			"properties": { "addr:province": "東京都", "name": "曳舟", "name_hira": "", "operator": ["東武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8335333, 35.7000853] },
+			"properties": { "addr:province": "東京都", "name": "亀戸水神", "name_hira": "かめいどすいじん", "operator": ["東武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8277754, 35.7102802] },
+			"properties": { "addr:province": "東京都", "name": "小村井", "name_hira": "", "operator": ["東武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6936705, 35.6787444] },
+			"properties": { "addr:province": "東京都", "name": "参宮橋", "name_hira": "", "operator": ["小田急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.2816337, 35.64166] },
+			"properties": { "addr:province": "東京都", "name": "高尾", "name_hira": "たかお", "operator": ["京王電鉄", "東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6504275, 35.6684337] },
+			"properties": { "addr:province": "東京都", "name": "明大前", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6378105, 35.7368176] },
+			"properties": { "addr:province": "東京都", "name": "中村橋", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5198187, 35.772084] },
+			"properties": { "addr:province": "東京都", "name": "清瀬", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5455333, 35.7515231] },
+			"properties": { "addr:province": "東京都", "name": "ひばりヶ丘", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6540818, 35.737877] },
+			"properties": { "addr:province": "東京都", "name": "練馬", "name_hira": "", "operator": ["西武鉄道", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6828643, 35.7302608] },
+			"properties": { "addr:province": "東京都", "name": "東長崎", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4814366, 35.5169105] },
+			"properties": { "addr:province": "東京都", "name": "すずかけ台", "name_hira": "すずかけだい", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4851103, 35.5276368] },
+			"properties": { "addr:province": "東京都", "name": "つくし野", "name_hira": "", "operator": ["東京急行電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.703293, 35.648157] },
+			"properties": { "addr:province": "東京都", "name": "代官山", "name_hira": "", "operator": ["東京急行電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8248669, 35.7621283] },
+			"properties": { "addr:province": "東京都", "name": "綾瀬", "name_hira": "", "operator": ["東京地下鉄", "東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7983683, 35.7119514] },
+			"properties": { "addr:province": "東京都", "name": "浅草", "name_hira": "", "operator": ["東武鉄道", "東京地下鉄", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8091837, 35.7104065] },
+			"properties": { "addr:province": "東京都", "name": "とうきょうスカイツリー", "name_hira": "とうきょうスカイツリー", "operator": ["東武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8132943, 35.7102863] },
+			"properties": { "addr:province": "東京都", "name": "押上〈スカイツリー前〉", "name_hira": "", "operator": ["京成電鉄;東京都交通局", ""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7043604, 35.6689704] },
+			"properties": { "addr:province": "東京都", "name": "明治神宮前〈原宿〉", "name_hira": "", "operator": ["東京地下鉄", "東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7216714, 35.6018658] },
+			"properties": { "addr:province": "東京都", "name": "西大井", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7536603, 35.7469091] },
+			"properties": { "addr:province": "東京都", "name": "尾久", "name_hira": "おく", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7476833, 35.6457358] },
+			"properties": { "addr:province": "東京都", "name": "田町", "name_hira": "たまち", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4659028, 35.7604737] },
+			"properties": { "addr:province": "東京都", "name": "東村山", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4635507, 35.7374095] },
+			"properties": { "addr:province": "東京都", "name": "小川", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6479768, 35.7424193] },
+			"properties": { "addr:province": "東京都", "name": "豊島園", "name_hira": "", "operator": ["西武鉄道", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6623844, 35.7387537] },
+			"properties": { "addr:province": "東京都", "name": "桜台", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.22997, 35.7879558] },
+			"properties": { "addr:province": "東京都", "name": "日向和田", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3278791, 35.7423308] },
+			"properties": { "addr:province": "東京都", "name": "福生", "name_hira": "ふっさ", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.2159535, 35.8042988] },
+			"properties": { "addr:province": "東京都", "name": "二俣尾", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3160094, 35.7583518] },
+			"properties": { "addr:province": "東京都", "name": "羽村", "name_hira": "はむら", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.1287096, 35.8150523] },
+			"properties": { "addr:province": "東京都", "name": "鳩ノ巣", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3844328, 35.7063674] },
+			"properties": { "addr:province": "東京都", "name": "東中神", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.2725011, 35.7899044] },
+			"properties": { "addr:province": "東京都", "name": "東青梅", "name_hira": "ひがしおうめ", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.2076788, 35.8076389] },
+			"properties": { "addr:province": "東京都", "name": "軍畑", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.2250691, 35.7967462] },
+			"properties": { "addr:province": "東京都", "name": "石神前", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.2847667, 35.7845271] },
+			"properties": { "addr:province": "東京都", "name": "河辺", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.1640333, 35.8137516] },
+			"properties": { "addr:province": "東京都", "name": "川井", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.152088, 35.8162013] },
+			"properties": { "addr:province": "東京都", "name": "古里", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.1823453, 35.8014926] },
+			"properties": { "addr:province": "東京都", "name": "御嶽", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.2368359, 35.787437] },
+			"properties": { "addr:province": "東京都", "name": "宮ノ平", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3757902, 35.7090262] },
+			"properties": { "addr:province": "東京都", "name": "中神", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3936369, 35.7035299] },
+			"properties": { "addr:province": "東京都", "name": "西立川", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.0967926, 35.8094019] },
+			"properties": { "addr:province": "東京都", "name": "奥多摩", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.2583321, 35.7904504] },
+			"properties": { "addr:province": "東京都", "name": "青梅", "name_hira": "おうめ", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3019232, 35.7763109] },
+			"properties": { "addr:province": "東京都", "name": "小作", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.1937542, 35.8058807] },
+			"properties": { "addr:province": "東京都", "name": "沢井", "name_hira": "", "operator": [""] }
+		},
+		{ "type": "Feature", "geometry": { "type": "Point", "coordinates": [139.1147877, 35.811886] }, "properties": { "addr:province": "東京都", "name": "白丸", "name_hira": "", "operator": [""] } },
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3336014, 35.7346115] },
+			"properties": { "addr:province": "東京都", "name": "牛浜", "name_hira": "うしはま", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7543827, 35.5489671] },
+			"properties": { "addr:province": "東京都", "name": "天空橋", "name_hira": "", "operator": ["東京モノレール", "京浜急行電鉄 (Keikyu Corporation)"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7533539, 35.5551678] },
+			"properties": { "addr:province": "東京都", "name": "整備場", "name_hira": "", "operator": ["東京モノレール"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.750008, 35.5708971] },
+			"properties": { "addr:province": "東京都", "name": "昭和島", "name_hira": "", "operator": ["東京モノレール"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7491238, 35.5816673] },
+			"properties": { "addr:province": "東京都", "name": "流通センター", "name_hira": "", "operator": ["東京モノレール"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7470539, 35.5951172] },
+			"properties": { "addr:province": "東京都", "name": "大井競馬場前", "name_hira": "", "operator": ["東京モノレール"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7507947, 35.6227359] },
+			"properties": { "addr:province": "東京都", "name": "天王洲アイル", "name_hira": "", "operator": ["東京モノレール", "東京臨海高速鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7512155, 35.7073372] },
+			"properties": { "addr:province": "東京都", "name": "後楽園", "name_hira": "", "operator": ["東京地下鉄", "東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7077399, 35.6038557] },
+			"properties": { "addr:province": "東京都", "name": "荏原町", "name_hira": "えばらまち", "operator": ["東急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7512318, 35.6959198] },
+			"properties": { "addr:province": "東京都", "name": "九段下", "name_hira": "", "operator": ["東京地下鉄", "東京地下鉄", "東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8706926, 35.7695843] },
+			"properties": { "addr:province": "東京都", "name": "金町", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7537008, 35.7247631] },
+			"properties": { "addr:province": "東京都", "name": "本駒込", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7221, 35.7834478] },
+			"properties": { "addr:province": "東京都", "name": "赤羽岩淵", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7047597, 35.6907365] },
+			"properties": { "addr:province": "東京都", "name": "新宿三丁目", "name_hira": "", "operator": ["東京地下鉄", "東京地下鉄", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6650083, 35.7497818] },
+			"properties": { "addr:province": "東京都", "name": "氷川台", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6541369, 35.7576885] },
+			"properties": { "addr:province": "東京都", "name": "平和台", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6441259, 35.7699229] },
+			"properties": { "addr:province": "東京都", "name": "地下鉄赤塚", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6312465, 35.7766946] },
+			"properties": { "addr:province": "東京都", "name": "地下鉄成増", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.721191, 35.7058028] },
+			"properties": { "addr:province": "東京都", "name": "早稲田", "name_hira": "", "operator": ["東京地下鉄", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7341347, 35.7039298] },
+			"properties": { "addr:province": "東京都", "name": "神楽坂", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7587484, 35.6900994] },
+			"properties": { "addr:province": "東京都", "name": "竹橋", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7744933, 35.6822079] },
+			"properties": { "addr:province": "東京都", "name": "日本橋", "name_hira": "", "operator": ["", "東京地下鉄", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7483983, 35.6476619] },
+			"properties": { "addr:province": "東京都", "name": "三田", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7531843, 35.7098805] },
+			"properties": { "addr:province": "東京都", "name": "春日", "name_hira": "", "operator": ["東京都交通局", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7521578, 35.7215048] },
+			"properties": { "addr:province": "東京都", "name": "白山", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7449946, 35.7277122] },
+			"properties": { "addr:province": "東京都", "name": "千石", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6232912, 35.6688535] },
+			"properties": { "addr:province": "東京都", "name": "上北沢", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7761952, 35.7064914] },
+			"properties": { "addr:province": "東京都", "name": "仲御徒町", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8156854, 35.6889959] },
+			"properties": { "addr:province": "東京都", "name": "住吉", "name_hira": "すみよし", "operator": ["東京地下鉄;東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7970443, 35.6879977] },
+			"properties": { "addr:province": "東京都", "name": "森下", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7987644, 35.6820504] },
+			"properties": { "addr:province": "東京都", "name": "清澄白河", "name_hira": "", "operator": ["東京地下鉄;東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7579108, 35.7506767] },
+			"properties": { "addr:province": "東京都", "name": "荒川遊園地前", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.2699078, 35.6325002] },
+			"properties": { "addr:province": "東京都", "name": "高尾山口", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4309108, 35.657526] },
+			"properties": { "addr:province": "東京都", "name": "百草園", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4037336, 35.6486656] },
+			"properties": { "addr:province": "東京都", "name": "多摩動物公園", "name_hira": "", "operator": ["多摩都市モノレール", "京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3430194, 35.6579228] },
+			"properties": { "addr:province": "東京都", "name": "京王八王子", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5022101, 35.644449] },
+			"properties": { "addr:province": "東京都", "name": "稲城長沼", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4898462, 35.6492737] },
+			"properties": { "addr:province": "東京都", "name": "南多摩", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7181853, 35.6089107] },
+			"properties": { "addr:province": "東京都", "name": "戸越公園", "name_hira": "とごしこうえん", "operator": ["東急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7128829, 35.6059262] },
+			"properties": { "addr:province": "東京都", "name": "中延", "name_hira": "なかのぶ", "operator": ["東急電鉄", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7262498, 35.6087809] },
+			"properties": { "addr:province": "東京都", "name": "下神明", "name_hira": "しもしんめい", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7567135, 35.6554464] },
+			"properties": { "addr:province": "東京都", "name": "モノレール浜松町", "name_hira": "", "operator": ["モノレール浜松町"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6151731, 35.724688] },
+			"properties": { "addr:province": "東京都", "name": "井荻", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7375253, 35.6763213] },
+			"properties": { "addr:province": "東京都", "name": "赤坂見附", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7662986, 35.6949465] },
+			"properties": { "addr:province": "東京都", "name": "小川町", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7582694, 35.695008] },
+			"properties": { "addr:province": "東京都", "name": "神保町", "name_hira": "", "operator": ["東京都交通局", "東京地下鉄", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7700104, 35.7073329] },
+			"properties": { "addr:province": "東京都", "name": "湯島", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7583499, 35.6737302] },
+			"properties": { "addr:province": "東京都", "name": "日比谷", "name_hira": "", "operator": ["東京地下鉄;東京都交通局", "東京地下鉄;東京都交通局", "東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7515757, 35.6774009] },
+			"properties": { "addr:province": "東京都", "name": "桜田門", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7516221, 35.6725014] },
+			"properties": { "addr:province": "東京都", "name": "霞ケ関", "name_hira": "", "operator": ["東京地下鉄", "東京地下鉄", "東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7656264, 35.6972185] },
+			"properties": { "addr:province": "東京都", "name": "新御茶ノ水", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7732996, 35.7079766] },
+			"properties": { "addr:province": "東京都", "name": "上野御徒町", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7434262, 35.6736889] },
+			"properties": { "addr:province": "東京都", "name": "国会議事堂前", "name_hira": "", "operator": ["東京地下鉄", "東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.741424, 35.6729903] },
+			"properties": { "addr:province": "東京都", "name": "溜池山王", "name_hira": "", "operator": ["東京地下鉄", "東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.692814, 35.6906065] },
+			"properties": { "addr:province": "東京都", "name": "都庁前", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6901224, 35.6690323] },
+			"properties": { "addr:province": "東京都", "name": "代々木公園", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7139442, 35.6801003] },
+			"properties": { "addr:province": "東京都", "name": "国立競技場", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7616161, 35.6803213] },
+			"properties": { "addr:province": "東京都", "name": "二重橋前〈丸の内〉", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7415832, 35.6852213] },
+			"properties": { "addr:province": "東京都", "name": "半蔵門", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7818428, 35.7070597] },
+			"properties": { "addr:province": "東京都", "name": "新御徒町", "name_hira": "", "operator": ["東京都交通局", "首都圏新都市鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.736388, 35.672224] },
+			"properties": { "addr:province": "東京都", "name": "赤坂", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8036235, 35.64073] },
+			"properties": { "addr:province": "東京都", "name": "東雲", "name_hira": "", "operator": ["東京臨海高速鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7780908, 35.6270927] },
+			"properties": { "addr:province": "東京都", "name": "東京テレポート", "name_hira": "", "operator": ["東京臨海高速鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7498775, 35.6097199] },
+			"properties": { "addr:province": "東京都", "name": "品川シーサイド", "name_hira": "", "operator": ["東京臨海高速鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7917555, 35.6344374] },
+			"properties": { "addr:province": "東京都", "name": "国際展示場", "name_hira": "", "operator": ["東京臨海高速鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6817498, 35.6971173] },
+			"properties": { "addr:province": "東京都", "name": "中野坂上", "name_hira": "", "operator": ["東京地下鉄", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7125432, 35.6651609] },
+			"properties": { "addr:province": "東京都", "name": "表参道", "name_hira": "おもてさんどう", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.738849, 35.6649728] },
+			"properties": { "addr:province": "東京都", "name": "六本木一丁目", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7498924, 35.654237] },
+			"properties": { "addr:province": "東京都", "name": "芝公園", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7701164, 35.8056634] },
+			"properties": { "addr:province": "東京都", "name": "舎人", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7701613, 35.7963713] },
+			"properties": { "addr:province": "東京都", "name": "舎人公園", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7700523, 35.7887298] },
+			"properties": { "addr:province": "東京都", "name": "谷在家", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7703113, 35.7738081] },
+			"properties": { "addr:province": "東京都", "name": "江北", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7706994, 35.7685095] },
+			"properties": { "addr:province": "東京都", "name": "高野", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7708262, 35.7639694] },
+			"properties": { "addr:province": "東京都", "name": "扇大橋", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7703819, 35.7546937] },
+			"properties": { "addr:province": "東京都", "name": "足立小台", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7698441, 35.7484991] },
+			"properties": { "addr:province": "東京都", "name": "熊野前", "name_hira": "", "operator": ["東京都交通局", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.770084, 35.7815121] },
+			"properties": { "addr:province": "東京都", "name": "西新井大師西", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.714259, 35.7130061] },
+			"properties": { "addr:province": "東京都", "name": "面影橋", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7125211, 35.7163541] },
+			"properties": { "addr:province": "東京都", "name": "学習院下", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7179309, 35.7241989] },
+			"properties": { "addr:province": "東京都", "name": "都電雑司ヶ谷", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7201704, 35.7252736] },
+			"properties": { "addr:province": "東京都", "name": "東池袋四丁目", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7250932, 35.7290407] },
+			"properties": { "addr:province": "東京都", "name": "向原", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7277426, 35.735513] },
+			"properties": { "addr:province": "東京都", "name": "巣鴨新田", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7297221, 35.7396036] },
+			"properties": { "addr:province": "東京都", "name": "庚申塚", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7306336, 35.7415243] },
+			"properties": { "addr:province": "東京都", "name": "新庚申塚", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7329388, 35.7445689] },
+			"properties": { "addr:province": "東京都", "name": "西ヶ原四丁目", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7382607, 35.7527409] },
+			"properties": { "addr:province": "東京都", "name": "王子駅前", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7527129, 35.750891] },
+			"properties": { "addr:province": "東京都", "name": "荒川車庫前", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7620294, 35.7505193] },
+			"properties": { "addr:province": "東京都", "name": "小台", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7652475, 35.7500466] },
+			"properties": { "addr:province": "東京都", "name": "宮ノ前", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7740826, 35.7455749] },
+			"properties": { "addr:province": "東京都", "name": "東尾久三丁目", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7743023, 35.6988302] },
+			"properties": { "addr:province": "東京都", "name": "秋葉原", "name_hira": "あきはばら", "operator": ["首都圏新都市鉄道", "東京地下鉄", "東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7753176, 35.695614] },
+			"properties": { "addr:province": "東京都", "name": "岩本町", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6910072, 35.6375747] },
+			"properties": { "addr:province": "東京都", "name": "祐天寺", "name_hira": "", "operator": ["東京急行電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6853465, 35.6289468] },
+			"properties": { "addr:province": "東京都", "name": "学芸大学", "name_hira": "", "operator": ["東京急行電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6688278, 35.6075379] },
+			"properties": { "addr:province": "東京都", "name": "自由が丘", "name_hira": "じゆうがおか", "operator": ["東急電鉄", "東急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6673676, 35.5968896] },
+			"properties": { "addr:province": "東京都", "name": "田園調布", "name_hira": "", "operator": ["東京急行電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7631029, 35.6728411] },
+			"properties": { "addr:province": "東京都", "name": "銀座", "name_hira": "", "operator": ["東京地下鉄", "東京地下鉄", "東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7400615, 35.6387807] },
+			"properties": { "addr:province": "東京都", "name": "泉岳寺", "name_hira": "せんがくじ", "operator": ["東京都交通局", "京浜急行電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7000075, 35.6960899] },
+			"properties": { "addr:province": "東京都", "name": "西武新宿", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7240186, 35.6727797] },
+			"properties": { "addr:province": "東京都", "name": "青山一丁目", "name_hira": "", "operator": ["東京地下鉄;東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4108303, 35.6552865] },
+			"properties": { "addr:province": "東京都", "name": "程久保", "name_hira": "", "operator": ["多摩都市モノレール"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4087644, 35.6418831] },
+			"properties": { "addr:province": "東京都", "name": "中央大学・明星大学", "name_hira": "", "operator": ["多摩都市モノレール"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4164754, 35.6368916] },
+			"properties": { "addr:province": "東京都", "name": "大塚・帝京大学", "name_hira": "", "operator": ["多摩都市モノレール"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4220673, 35.6318225] },
+			"properties": { "addr:province": "東京都", "name": "松が谷", "name_hira": "", "operator": ["多摩都市モノレール"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6727375, 35.6040262] },
+			"properties": { "addr:province": "東京都", "name": "奥沢", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6941664, 35.6101514] },
+			"properties": { "addr:province": "東京都", "name": "洗足", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7045734, 35.6205612] },
+			"properties": { "addr:province": "東京都", "name": "武蔵小山", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.713046, 35.6253418] },
+			"properties": { "addr:province": "東京都", "name": "不動前", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6857012, 35.6074155] },
+			"properties": { "addr:province": "東京都", "name": "大岡山", "name_hira": "おおおかやま", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7025878, 35.604888] },
+			"properties": { "addr:province": "東京都", "name": "旗の台", "name_hira": "はたのだい", "operator": ["", ""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6929306, 35.6064235] },
+			"properties": { "addr:province": "東京都", "name": "北千束", "name_hira": "きたせんぞく", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6790149, 35.6065599] },
+			"properties": { "addr:province": "東京都", "name": "緑が丘", "name_hira": "みどりがおか", "operator": ["東急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6537506, 35.6070357] },
+			"properties": { "addr:province": "東京都", "name": "尾山台", "name_hira": "おやまだい", "operator": ["東急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.638886, 35.6119862] },
+			"properties": { "addr:province": "東京都", "name": "上野毛", "name_hira": "かみのげ", "operator": ["東急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7670332, 35.6743469] },
+			"properties": { "addr:province": "東京都", "name": "銀座一丁目", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8107392, 35.6454772] },
+			"properties": { "addr:province": "東京都", "name": "辰巳", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7513591, 35.6608011] },
+			"properties": { "addr:province": "東京都", "name": "御成門", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7856405, 35.6825235] },
+			"properties": { "addr:province": "東京都", "name": "水天宮前", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7881422, 35.6884743] },
+			"properties": { "addr:province": "東京都", "name": "浜町", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8126428, 35.7586732] },
+			"properties": { "addr:province": "東京都", "name": "小菅", "name_hira": "", "operator": ["東武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5340853, 35.7602506] },
+			"properties": { "addr:province": "東京都", "name": "東久留米", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3704809, 35.7262975] },
+			"properties": { "addr:province": "東京都", "name": "西武立川", "name_hira": "せいぶたちかわ", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7771747, 35.6589623] },
+			"properties": { "addr:province": "東京都", "name": "勝どき", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.726365, 35.6666651] },
+			"properties": { "addr:province": "東京都", "name": "乃木坂", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6465157, 35.6538239] },
+			"properties": { "addr:province": "東京都", "name": "山下", "name_hira": "やました", "operator": ["東京急行電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7776565, 35.6746238] },
+			"properties": { "addr:province": "東京都", "name": "八丁堀", "name_hira": "", "operator": ["東日本旅客鉄道", "東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4689904, 35.6684727] },
+			"properties": { "addr:province": "東京都", "name": "分倍河原", "name_hira": "", "operator": ["東日本旅客鉄道", "京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7361613, 35.6565014] },
+			"properties": { "addr:province": "東京都", "name": "麻布十番", "name_hira": "", "operator": ["東京都交通局", "東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7335636, 35.7095155] },
+			"properties": { "addr:province": "東京都", "name": "江戸川橋", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7274629, 35.7190787] },
+			"properties": { "addr:province": "東京都", "name": "護国寺", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8150431, 35.6963122] },
+			"properties": { "addr:province": "東京都", "name": "錦糸町", "name_hira": "", "operator": ["東京地下鉄", "東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6293801, 35.7585523] },
+			"properties": { "addr:province": "東京都", "name": "光が丘", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4092084, 35.6782996] },
+			"properties": { "addr:province": "東京都", "name": "甲州街道", "name_hira": "", "operator": ["多摩都市モノレール"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4094043, 35.6899232] },
+			"properties": { "addr:province": "東京都", "name": "柴崎体育館", "name_hira": "", "operator": ["多摩都市モノレール"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4200659, 35.6712772] },
+			"properties": { "addr:province": "東京都", "name": "万願寺", "name_hira": "", "operator": ["多摩都市モノレール"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4126, 35.6961465] },
+			"properties": { "addr:province": "東京都", "name": "立川南", "name_hira": "", "operator": ["多摩都市モノレール"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7024781, 35.6701675] },
+			"properties": { "addr:province": "東京都", "name": "原宿", "name_hira": "はらじゅく", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6768293, 35.6772317] },
+			"properties": { "addr:province": "東京都", "name": "幡ヶ谷", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6672321, 35.6736801] },
+			"properties": { "addr:province": "東京都", "name": "笹塚", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6738042, 35.692021] },
+			"properties": { "addr:province": "東京都", "name": "中野新橋", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4707911, 35.5115009] },
+			"properties": { "addr:province": "東京都", "name": "南町田グランベリーパーク", "name_hira": "", "operator": ["東急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7223074, 35.7600083] },
+			"properties": { "addr:province": "東京都", "name": "十条", "name_hira": "じゅうじょう", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3671223, 35.6020524] },
+			"properties": { "addr:province": "東京都", "name": "多摩境", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6531263, 35.7196957] },
+			"properties": { "addr:province": "東京都", "name": "野方", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3109959, 35.7259384] },
+			"properties": { "addr:province": "東京都", "name": "東秋留", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.256252, 35.7310041] },
+			"properties": { "addr:province": "東京都", "name": "武蔵増戸", "name_hira": "", "operator": [""] }
+		},
+		{ "type": "Feature", "geometry": { "type": "Point", "coordinates": [139.2866763, 35.728075] }, "properties": { "addr:province": "東京都", "name": "秋川", "name_hira": "", "operator": [""] } },
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8478007, 35.7666652] },
+			"properties": { "addr:province": "東京都", "name": "亀有", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4933864, 35.7778733] },
+			"properties": { "addr:province": "東京都", "name": "新秋津", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6686209, 35.7410899] },
+			"properties": { "addr:province": "東京都", "name": "新桜台", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.792416, 35.7136174] },
+			"properties": { "addr:province": "東京都", "name": "TX浅草", "name_hira": "", "operator": ["首都圏新都市鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6727894, 35.7375689] },
+			"properties": { "addr:province": "東京都", "name": "江古田", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6954383, 35.7157663] },
+			"properties": { "addr:province": "東京都", "name": "下落合", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.672568, 35.7157294] },
+			"properties": { "addr:province": "東京都", "name": "新井薬師前", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6863011, 35.7150987] },
+			"properties": { "addr:province": "東京都", "name": "中井", "name_hira": "", "operator": ["西武鉄道", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7979912, 35.7723784] },
+			"properties": { "addr:province": "東京都", "name": "梅島", "name_hira": "", "operator": ["東武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8094973, 35.7659593] },
+			"properties": { "addr:province": "東京都", "name": "五反野", "name_hira": "", "operator": ["東武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8176989, 35.7432581] },
+			"properties": { "addr:province": "東京都", "name": "堀切", "name_hira": "", "operator": ["東武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8193077, 35.7243341] },
+			"properties": { "addr:province": "東京都", "name": "東向島", "name_hira": "", "operator": ["東武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8205233, 35.7337353] },
+			"properties": { "addr:province": "東京都", "name": "鐘ヶ淵", "name_hira": "", "operator": ["東武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7908431, 35.7944805] },
+			"properties": { "addr:province": "東京都", "name": "竹ノ塚", "name_hira": "", "operator": ["東武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7406643, 35.6353992] },
+			"properties": { "addr:province": "東京都", "name": "高輪ゲートウェイ", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6988775, 35.683724] },
+			"properties": { "addr:province": "東京都", "name": "南新宿", "name_hira": "", "operator": ["小田急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4482099, 35.6299329] },
+			"properties": { "addr:province": "東京都", "name": "小田急永山", "name_hira": "", "operator": ["小田急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5871981, 35.6366224] },
+			"properties": { "addr:province": "東京都", "name": "喜多見", "name_hira": "", "operator": ["小田急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5737269, 35.6275123] },
+			"properties": { "addr:province": "東京都", "name": "和泉多摩川", "name_hira": "", "operator": ["小田急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6415946, 35.6661345] },
+			"properties": { "addr:province": "東京都", "name": "下高井戸", "name_hira": "しもたかいど", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.669068, 35.6440586] },
+			"properties": { "addr:province": "東京都", "name": "三軒茶屋", "name_hira": "", "operator": ["", ""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.666303, 35.6445861] },
+			"properties": { "addr:province": "東京都", "name": "西太子堂", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6598567, 35.6459516] },
+			"properties": { "addr:province": "東京都", "name": "若林", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6551898, 35.6439381] },
+			"properties": { "addr:province": "東京都", "name": "松陰神社前", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6508094, 35.6435069] },
+			"properties": { "addr:province": "東京都", "name": "世田谷", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6468285, 35.6432455] },
+			"properties": { "addr:province": "東京都", "name": "上町", "name_hira": "かみまち", "operator": ["東急"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6449893, 35.6478254] },
+			"properties": { "addr:province": "東京都", "name": "宮の坂", "name_hira": "みやのさか", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.641968, 35.6601167] },
+			"properties": { "addr:province": "東京都", "name": "松原", "name_hira": "まつばら", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6587527, 35.6709596] },
+			"properties": { "addr:province": "東京都", "name": "代田橋", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6320107, 35.6675627] },
+			"properties": { "addr:province": "東京都", "name": "桜上水", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6083951, 35.6705822] },
+			"properties": { "addr:province": "東京都", "name": "芦花公園", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6008523, 35.6680037] },
+			"properties": { "addr:province": "東京都", "name": "千歳烏山", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5850157, 35.6623454] },
+			"properties": { "addr:province": "東京都", "name": "仙川", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5752432, 35.6580672] },
+			"properties": { "addr:province": "東京都", "name": "つつじヶ丘", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5670439, 35.6542424] },
+			"properties": { "addr:province": "東京都", "name": "柴崎", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5517595, 35.6498661] },
+			"properties": { "addr:province": "東京都", "name": "布田", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{ "type": "Feature", "geometry": { "type": "Point", "coordinates": [139.4800091, 35.672219] }, "properties": { "addr:province": "東京都", "name": "府中", "name_hira": "", "operator": [""] } },
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4470446, 35.6508541] },
+			"properties": { "addr:province": "東京都", "name": "聖蹟桜ヶ丘", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5030177, 35.6661125] },
+			"properties": { "addr:province": "東京都", "name": "多磨霊園", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4951461, 35.6688995] },
+			"properties": { "addr:province": "東京都", "name": "東府中", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4579544, 35.6596099] },
+			"properties": { "addr:province": "東京都", "name": "中河原", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3803307, 35.647517] },
+			"properties": { "addr:province": "東京都", "name": "平山城址公園", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3919562, 35.6546404] },
+			"properties": { "addr:province": "東京都", "name": "南平", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3659307, 35.6427981] },
+			"properties": { "addr:province": "東京都", "name": "長沼", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3540839, 35.6446036] },
+			"properties": { "addr:province": "東京都", "name": "北野", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.558541, 35.6502158] },
+			"properties": { "addr:province": "東京都", "name": "国領", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4132745, 35.7101518] },
+			"properties": { "addr:province": "東京都", "name": "高松", "name_hira": "", "operator": ["多摩都市モノレール"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4171959, 35.7144509] },
+			"properties": { "addr:province": "東京都", "name": "立飛", "name_hira": "", "operator": ["多摩都市モノレール"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4195455, 35.7188183] },
+			"properties": { "addr:province": "東京都", "name": "泉体育館", "name_hira": "", "operator": ["多摩都市モノレール"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.418131, 35.7233752] },
+			"properties": { "addr:province": "東京都", "name": "砂川七番", "name_hira": "", "operator": ["多摩都市モノレール"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.416651, 35.739065] },
+			"properties": { "addr:province": "東京都", "name": "桜街道", "name_hira": "", "operator": ["多摩都市モノレール"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4158575, 35.7458813] },
+			"properties": { "addr:province": "東京都", "name": "上北台", "name_hira": "", "operator": ["多摩都市モノレール"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6845183, 35.6898839] },
+			"properties": { "addr:province": "東京都", "name": "西新宿五丁目", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5673646, 35.7483016] },
+			"properties": { "addr:province": "東京都", "name": "保谷", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.676184, 35.6175433] },
+			"properties": { "addr:province": "東京都", "name": "都立大学", "name_hira": "", "operator": ["東急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.705414, 35.6784974] },
+			"properties": { "addr:province": "東京都", "name": "北参道", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7090404, 35.7079347] },
+			"properties": { "addr:province": "東京都", "name": "西早稲田", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7657175, 35.7173914] },
+			"properties": { "addr:province": "東京都", "name": "根津", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7800901, 35.7421779] },
+			"properties": { "addr:province": "東京都", "name": "町屋", "name_hira": "", "operator": ["東京地下鉄", "京成電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7632458, 35.7255677] },
+			"properties": { "addr:province": "東京都", "name": "千駄木", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7439828, 35.6550406] },
+			"properties": { "addr:province": "東京都", "name": "赤羽橋", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.832145, 35.7768999] },
+			"properties": { "addr:province": "東京都", "name": "北綾瀬", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7178823, 35.6704649] },
+			"properties": { "addr:province": "東京都", "name": "外苑前", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7700412, 35.676696] },
+			"properties": { "addr:province": "東京都", "name": "京橋", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7716793, 35.7029361] },
+			"properties": { "addr:province": "東京都", "name": "末広町", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7729909, 35.7078328] },
+			"properties": { "addr:province": "東京都", "name": "上野広小路", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7826851, 35.7113867] },
+			"properties": { "addr:province": "東京都", "name": "稲荷町", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7907747, 35.709842] },
+			"properties": { "addr:province": "東京都", "name": "田原町", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7299234, 35.7257823] },
+			"properties": { "addr:province": "東京都", "name": "新大塚", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7107396, 35.6885735] },
+			"properties": { "addr:province": "東京都", "name": "新宿御苑前", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6686428, 35.6974599] },
+			"properties": { "addr:province": "東京都", "name": "新中野", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.767473, 35.6950614] },
+			"properties": { "addr:province": "東京都", "name": "淡路町", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7205752, 35.687988] },
+			"properties": { "addr:province": "東京都", "name": "四谷三丁目", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6927654, 35.6944269] },
+			"properties": { "addr:province": "東京都", "name": "西新宿", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.750056, 35.6701871] },
+			"properties": { "addr:province": "東京都", "name": "虎ノ門", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6581601, 35.6979717] },
+			"properties": { "addr:province": "東京都", "name": "東高円寺", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.648688, 35.6978735] },
+			"properties": { "addr:province": "東京都", "name": "新高円寺", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6357088, 35.6993987] },
+			"properties": { "addr:province": "東京都", "name": "南阿佐ケ谷", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7477648, 35.6674688] },
+			"properties": { "addr:province": "東京都", "name": "虎ノ門ヒルズ", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7450477, 35.662964] },
+			"properties": { "addr:province": "東京都", "name": "神谷町", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7313268, 35.6628364] },
+			"properties": { "addr:province": "東京都", "name": "六本木", "name_hira": "", "operator": ["東京地下鉄", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7222033, 35.6520629] },
+			"properties": { "addr:province": "東京都", "name": "広尾", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7376514, 35.6840244] },
+			"properties": { "addr:province": "東京都", "name": "麹町", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7784526, 35.6907525] },
+			"properties": { "addr:province": "東京都", "name": "小伝馬町", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7845821, 35.720709] },
+			"properties": { "addr:province": "東京都", "name": "入谷", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7913004, 35.7295502] },
+			"properties": { "addr:province": "東京都", "name": "三ノ輪", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6576888, 35.6835007] },
+			"properties": { "addr:province": "東京都", "name": "方南町", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6670329, 35.6905641] },
+			"properties": { "addr:province": "東京都", "name": "中野富士見町", "name_hira": "", "operator": ["東京地下鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7848848, 35.6921239] },
+			"properties": { "addr:province": "東京都", "name": "東日本橋", "name_hira": "ひがしにほんばし", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7863101, 35.6973915] },
+			"properties": { "addr:province": "東京都", "name": "浅草橋", "name_hira": "", "operator": ["東京都交通局", "東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.790939, 35.7032122] },
+			"properties": { "addr:province": "東京都", "name": "蔵前", "name_hira": "", "operator": ["東京都交通局", "東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6403755, 35.751398] },
+			"properties": { "addr:province": "東京都", "name": "練馬春日町", "name_hira": "ねりまかすがちょう", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7718846, 35.6754339] },
+			"properties": { "addr:province": "東京都", "name": "宝町", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7304256, 35.6317345] },
+			"properties": { "addr:province": "東京都", "name": "高輪台", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7163642, 35.614502] },
+			"properties": { "addr:province": "東京都", "name": "戸越", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6704167, 35.7326022] },
+			"properties": { "addr:province": "東京都", "name": "新江古田", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6835782, 35.7232248] },
+			"properties": { "addr:province": "東京都", "name": "落合南長崎", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8043487, 35.7085609] },
+			"properties": { "addr:province": "東京都", "name": "本所吾妻橋", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7119274, 35.5967788] },
+			"properties": { "addr:province": "東京都", "name": "馬込", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7063115, 35.5872987] },
+			"properties": { "addr:province": "東京都", "name": "西馬込", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6832315, 35.7073477] },
+			"properties": { "addr:province": "東京都", "name": "東中野", "name_hira": "", "operator": ["東京都交通局", "東日本旅客鉃道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7668843, 35.6648789] },
+			"properties": { "addr:province": "東京都", "name": "築地市場", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7024438, 35.7685214] },
+			"properties": { "addr:province": "東京都", "name": "本蓮沼", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7055249, 35.7614305] },
+			"properties": { "addr:province": "東京都", "name": "板橋本町", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.71004, 35.7513477] },
+			"properties": { "addr:province": "東京都", "name": "板橋区役所前", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7286973, 35.7435537] },
+			"properties": { "addr:province": "東京都", "name": "西巣鴨", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7553799, 35.6694556] },
+			"properties": { "addr:province": "東京都", "name": "内幸町", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7228634, 35.6924146] },
+			"properties": { "addr:province": "東京都", "name": "曙橋", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7827937, 35.6921222] },
+			"properties": { "addr:province": "東京都", "name": "馬喰横山", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.864297, 35.6838309] },
+			"properties": { "addr:province": "東京都", "name": "船堀", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.9038381, 35.7060788] },
+			"properties": { "addr:province": "東京都", "name": "篠崎", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8976392, 35.6932479] },
+			"properties": { "addr:province": "東京都", "name": "瑞江", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.835076, 35.6897695] },
+			"properties": { "addr:province": "東京都", "name": "大島", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8459524, 35.6902967] },
+			"properties": { "addr:province": "東京都", "name": "東大島", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7199032, 35.7487966] },
+			"properties": { "addr:province": "東京都", "name": "新板橋", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6955288, 35.7756688] },
+			"properties": { "addr:province": "東京都", "name": "志村坂上", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6859968, 35.7775108] },
+			"properties": { "addr:province": "東京都", "name": "志村三丁目", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6790713, 35.7843239] },
+			"properties": { "addr:province": "東京都", "name": "蓮根", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6740221, 35.7869663] },
+			"properties": { "addr:province": "東京都", "name": "西台", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6612548, 35.7889131] },
+			"properties": { "addr:province": "東京都", "name": "高島平", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6457724, 35.7919112] },
+			"properties": { "addr:province": "東京都", "name": "西高島平", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8266345, 35.6893724] },
+			"properties": { "addr:province": "東京都", "name": "西大島", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.806123, 35.6884156] },
+			"properties": { "addr:province": "東京都", "name": "菊川", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8831198, 35.6860437] },
+			"properties": { "addr:province": "東京都", "name": "一之江", "name_hira": "", "operator": ["東京都交通局"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7225696, 35.6225443] },
+			"properties": { "addr:province": "東京都", "name": "大崎広小路", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4465862, 35.6814454] },
+			"properties": { "addr:province": "東京都", "name": "谷保", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4318114, 35.6850443] },
+			"properties": { "addr:province": "東京都", "name": "矢川", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5205089, 35.641655] },
+			"properties": { "addr:province": "東京都", "name": "矢野口", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7739458, 35.7372049] },
+			"properties": { "addr:province": "東京都", "name": "新三河島", "name_hira": "しんみかわしま", "operator": ["京成電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8117763, 35.7439951] },
+			"properties": { "addr:province": "東京都", "name": "京成関屋", "name_hira": "けいせいせきや", "operator": ["京成電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8274834, 35.7476751] },
+			"properties": { "addr:province": "東京都", "name": "堀切菖蒲園", "name_hira": "ほりきりしょうぶえん", "operator": ["京成電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6854947, 35.5971322] },
+			"properties": { "addr:province": "東京都", "name": "石川台", "name_hira": "", "operator": ["東急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3354073, 35.7284457] },
+			"properties": { "addr:province": "東京都", "name": "熊川", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4705491, 35.7308413] },
+			"properties": { "addr:province": "東京都", "name": "新小平", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6730652, 35.5827683] },
+			"properties": { "addr:province": "東京都", "name": "沼部", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6855952, 35.5713856] },
+			"properties": { "addr:province": "東京都", "name": "下丸子", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6924791, 35.5678616] },
+			"properties": { "addr:province": "東京都", "name": "武蔵新田", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7002588, 35.5625766] },
+			"properties": { "addr:province": "東京都", "name": "矢口渡", "name_hira": "", "operator": ["東急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6805741, 35.5754603] },
+			"properties": { "addr:province": "東京都", "name": "鵜の木", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6856542, 35.5795927] },
+			"properties": { "addr:province": "東京都", "name": "久が原", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5168349, 35.6329471] },
+			"properties": { "addr:province": "東京都", "name": "京王よみうりランド", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5369116, 35.6447764] },
+			"properties": { "addr:province": "東京都", "name": "京王多摩川", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.500445, 35.6362354] },
+			"properties": { "addr:province": "東京都", "name": "稲城", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.3799374, 35.6141445] },
+			"properties": { "addr:province": "東京都", "name": "南大沢", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4003398, 35.6244777] },
+			"properties": { "addr:province": "東京都", "name": "京王堀之内", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7859882, 35.5497878] },
+			"properties": { "addr:province": "東京都", "name": "羽田空港第1・第2ターミナル", "name_hira": "はねだくうこうだいいち・だいにたーみなる", "operator": ["京浜急行電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7467757, 35.5503099] },
+			"properties": { "addr:province": "東京都", "name": "穴守稲荷", "name_hira": "", "operator": ["京浜急行電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7395158, 35.5525175] },
+			"properties": { "addr:province": "東京都", "name": "大鳥居", "name_hira": "", "operator": ["京浜急行電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7294667, 35.5547016] },
+			"properties": { "addr:province": "東京都", "name": "糀谷", "name_hira": "", "operator": ["京浜急行電鉄 (Keikyu Corporation)"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7412742, 35.61747] },
+			"properties": { "addr:province": "東京都", "name": "新馬場", "name_hira": "", "operator": ["京浜急行電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7149801, 35.5496951] },
+			"properties": { "addr:province": "東京都", "name": "雑色", "name_hira": "", "operator": ["京浜急行電鉄 (Keikyu Corporation)"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.728368, 35.5669662] },
+			"properties": { "addr:province": "東京都", "name": "梅屋敷", "name_hira": "", "operator": ["京浜急行電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7320685, 35.5725032] },
+			"properties": { "addr:province": "東京都", "name": "大森町", "name_hira": "", "operator": ["京浜急行電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7349686, 35.5787037] },
+			"properties": { "addr:province": "東京都", "name": "平和島", "name_hira": "", "operator": ["京浜急行電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7353937, 35.5876986] },
+			"properties": { "addr:province": "東京都", "name": "大森海岸", "name_hira": "", "operator": ["京浜急行電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7430769, 35.6088735] },
+			"properties": { "addr:province": "東京都", "name": "青物横丁", "name_hira": "", "operator": ["京浜急行電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7076671, 35.5406578] },
+			"properties": { "addr:province": "東京都", "name": "六郷土手", "name_hira": "", "operator": ["京浜急行電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8401447, 35.7475893] },
+			"properties": { "addr:province": "東京都", "name": "お花茶屋", "name_hira": "おはなぢゃや", "operator": ["京成電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7968196, 35.7424234] },
+			"properties": { "addr:province": "東京都", "name": "千住大橋", "name_hira": "せんじゅおおはし", "operator": ["京成電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8958777, 35.7377552] },
+			"properties": { "addr:province": "東京都", "name": "江戸川", "name_hira": "えどがわ", "operator": ["京成電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8833524, 35.7424201] },
+			"properties": { "addr:province": "東京都", "name": "京成小岩", "name_hira": "けいせいこいわ", "operator": ["京成電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7168198, 35.7409856] },
+			"properties": { "addr:province": "東京都", "name": "北池袋", "name_hira": "", "operator": ["東武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6445735, 35.7705809] },
+			"properties": { "addr:province": "東京都", "name": "下赤塚", "name_hira": "", "operator": ["東武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.632934, 35.7775924] },
+			"properties": { "addr:province": "東京都", "name": "成増", "name_hira": "", "operator": ["東武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6625765, 35.7686483] },
+			"properties": { "addr:province": "東京都", "name": "東武練馬", "name_hira": "", "operator": ["東武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6765427, 35.763474] },
+			"properties": { "addr:province": "東京都", "name": "上板橋", "name_hira": "", "operator": ["東武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6885362, 35.7589153] },
+			"properties": { "addr:province": "東京都", "name": "ときわ台", "name_hira": "", "operator": ["東武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6941829, 35.7564001] },
+			"properties": { "addr:province": "東京都", "name": "中板橋", "name_hira": "", "operator": ["東武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7024348, 35.7486238] },
+			"properties": { "addr:province": "東京都", "name": "大山", "name_hira": "", "operator": ["東武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7154787, 35.7452488] },
+			"properties": { "addr:province": "東京都", "name": "下板橋", "name_hira": "", "operator": ["東武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8580706, 35.7169836] },
+			"properties": { "addr:province": "東京都", "name": "新小岩", "name_hira": "しんこいわ", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8425004, 35.706421] },
+			"properties": { "addr:province": "東京都", "name": "平井", "name_hira": "ひらい", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7204947, 35.6800236] },
+			"properties": { "addr:province": "東京都", "name": "信濃町", "name_hira": "しなのまち", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6973178, 35.7007776] },
+			"properties": { "addr:province": "東京都", "name": "大久保", "name_hira": "おおくぼ", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4801232, 35.7217787] },
+			"properties": { "addr:province": "東京都", "name": "一橋学園", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4441464, 35.7561818] },
+			"properties": { "addr:province": "東京都", "name": "武蔵大和", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4674364, 35.7451604] },
+			"properties": { "addr:province": "東京都", "name": "八坂", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4765592, 35.7306459] },
+			"properties": { "addr:province": "東京都", "name": "青梅街道", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4771811, 35.7406792] },
+			"properties": { "addr:province": "東京都", "name": "萩山", "name_hira": "はぎやま", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4426608, 35.7659018] },
+			"properties": { "addr:province": "東京都", "name": "多摩湖", "name_hira": "", "operator": ["西武鉄道", ""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6867391, 35.6815487] },
+			"properties": { "addr:province": "東京都", "name": "初台", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6341544, 35.6266472] },
+			"properties": { "addr:province": "東京都", "name": "用賀", "name_hira": "ようが", "operator": ["東急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6453688, 35.6317241] },
+			"properties": { "addr:province": "東京都", "name": "桜新町", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6611562, 35.6331934] },
+			"properties": { "addr:province": "東京都", "name": "駒沢大学", "name_hira": "", "operator": ["東急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6847724, 35.6507634] },
+			"properties": { "addr:province": "東京都", "name": "池尻大橋", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4717547, 35.6807665] },
+			"properties": { "addr:province": "東京都", "name": "北府中", "name_hira": "", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6729246, 35.6605069] },
+			"properties": { "addr:province": "東京都", "name": "池ノ上", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6606159, 35.6626076] },
+			"properties": { "addr:province": "東京都", "name": "新代田", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6558575, 35.6626431] },
+			"properties": { "addr:province": "東京都", "name": "東松原", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.642645, 35.6762576] },
+			"properties": { "addr:province": "東京都", "name": "永福町", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.635535, 35.678698] },
+			"properties": { "addr:province": "東京都", "name": "西永福", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6274677, 35.6816467] },
+			"properties": { "addr:province": "東京都", "name": "浜田山", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6149498, 35.683248] },
+			"properties": { "addr:province": "東京都", "name": "高井戸", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6076113, 35.684671] },
+			"properties": { "addr:province": "東京都", "name": "富士見ヶ丘", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5996129, 35.6879766] },
+			"properties": { "addr:province": "東京都", "name": "久我山", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.588911, 35.6922344] },
+			"properties": { "addr:province": "東京都", "name": "三鷹台", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5827278, 35.6975016] },
+			"properties": { "addr:province": "東京都", "name": "井の頭公園", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6934884, 35.6572159] },
+			"properties": { "addr:province": "東京都", "name": "神泉", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6844553, 35.6586714] },
+			"properties": { "addr:province": "東京都", "name": "駒場東大前", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6913023, 35.5997965] },
+			"properties": { "addr:province": "東京都", "name": "洗足池", "name_hira": "", "operator": ["東急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6979521, 35.6022652] },
+			"properties": { "addr:province": "東京都", "name": "長原", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6810408, 35.5919901] },
+			"properties": { "addr:province": "東京都", "name": "雪が谷大塚", "name_hira": "", "operator": ["東急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7120054, 35.6099457] },
+			"properties": { "addr:province": "東京都", "name": "荏原中延", "name_hira": "", "operator": ["東急電鉄"] }
+		},
+		{ "type": "Feature", "geometry": { "type": "Point", "coordinates": [139.703049, 35.5720205] }, "properties": { "addr:province": "東京都", "name": "池上", "name_hira": "", "operator": [""] } },
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.70852, 35.5642517] },
+			"properties": { "addr:province": "東京都", "name": "蓮沼", "name_hira": "", "operator": ["東急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6915805, 35.5729144] },
+			"properties": { "addr:province": "東京都", "name": "千鳥町", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6824718, 35.5852523] },
+			"properties": { "addr:province": "東京都", "name": "御嶽山", "name_hira": "", "operator": ["東急電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8282344, 35.727185] },
+			"properties": { "addr:province": "東京都", "name": "八広", "name_hira": "", "operator": ["京成電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8348561, 35.7317433] },
+			"properties": { "addr:province": "東京都", "name": "四ツ木", "name_hira": "", "operator": ["京成電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8485055, 35.7382678] },
+			"properties": { "addr:province": "東京都", "name": "京成立石", "name_hira": "", "operator": ["京成電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.7741939, 35.6890005] },
+			"properties": { "addr:province": "東京都", "name": "新日本橋", "name_hira": "しんにほんばし", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.782427, 35.6933693] },
+			"properties": { "addr:province": "東京都", "name": "馬喰町", "name_hira": "ばくろちょう", "operator": ["東日本旅客鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6987365, 35.61547] },
+			"properties": { "addr:province": "東京都", "name": "西小山", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4847109, 35.6684223] },
+			"properties": { "addr:province": "東京都", "name": "府中競馬正門前", "name_hira": "", "operator": ["京王電鉄"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8793606, 35.7510711] },
+			"properties": { "addr:province": "東京都", "name": "新柴又", "name_hira": "", "operator": ["北総鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6030669, 35.7252616] },
+			"properties": { "addr:province": "東京都", "name": "上井草", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.576787, 35.7276304] },
+			"properties": { "addr:province": "東京都", "name": "武蔵関", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5132235, 35.7261822] },
+			"properties": { "addr:province": "東京都", "name": "花小金井", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5642364, 35.7287024] },
+			"properties": { "addr:province": "東京都", "name": "東伏見", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6253354, 35.7238306] },
+			"properties": { "addr:province": "東京都", "name": "下井草", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.6446653, 35.7224188] },
+			"properties": { "addr:province": "東京都", "name": "都立家政", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5525914, 35.7286376] },
+			"properties": { "addr:province": "東京都", "name": "西武柳沢", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5925257, 35.7261749] },
+			"properties": { "addr:province": "東京都", "name": "上石神井", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4882532, 35.7370404] },
+			"properties": { "addr:province": "東京都", "name": "小平", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5394387, 35.7273146] },
+			"properties": { "addr:province": "東京都", "name": "田無", "name_hira": "たなし", "operator": ["西武鉄道株式会社"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4345214, 35.7328898] },
+			"properties": { "addr:province": "東京都", "name": "東大和市", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4725702, 35.7496668] },
+			"properties": { "addr:province": "東京都", "name": "久米川", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.639543, 35.7226521] },
+			"properties": { "addr:province": "東京都", "name": "鷺ノ宮", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4487827, 35.7678406] },
+			"properties": { "addr:province": "東京都", "name": "西武園", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4612022, 35.7234533] },
+			"properties": { "addr:province": "東京都", "name": "鷹の台", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.464052, 35.7113067] },
+			"properties": { "addr:province": "東京都", "name": "恋ヶ窪", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.2701831, 35.7297501] },
+			"properties": { "addr:province": "東京都", "name": "武蔵引田", "name_hira": "むさしひきだ", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5170281, 35.6765958] },
+			"properties": { "addr:province": "東京都", "name": "多磨", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5098139, 35.6664784] },
+			"properties": { "addr:province": "東京都", "name": "白糸台", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.4995827, 35.6562077] },
+			"properties": { "addr:province": "東京都", "name": "競艇場前", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.5265006, 35.6956595] },
+			"properties": { "addr:province": "東京都", "name": "新小金井", "name_hira": "", "operator": ["西武鉄道"] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8031377, 35.7170993] },
+			"properties": { "addr:province": "東京都", "name": "駐車場", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8030384, 35.7172147] },
+			"properties": { "addr:province": "東京都", "name": "本堂", "name_hira": "", "operator": [""] }
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [139.8030606, 35.7171649] },
+			"properties": { "addr:province": "東京都", "name": "寺務所", "name_hira": "", "operator": [""] }
+		}
+	]
+}

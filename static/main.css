@@ -1,0 +1,114 @@
+svg {
+	border: 1px solid rgb(192, 192, 192);
+	border-radius: 5px;
+	background-color: #dcf6ff;
+}
+
+.region {
+	fill: rgba(0, 128, 255, 0.3);
+	cursor: pointer;
+}
+
+.region:hover {
+	fill: rgba(0, 255, 128, 0.5);
+	stroke: red;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	height: fit-content;
+	width: 100%;
+	background-color: #238551;
+	color: white;
+	padding: 5px;
+	box-shadow: 0 0 black;
+	display: flex;
+}
+
+#title {
+	padding: 0 10px;
+}
+
+#regionMenu {
+	display: flex;
+	gap: 10px;
+}
+
+.regionMenuItem {
+	padding: 0 10px;
+}
+
+.regionMenuItem a {
+	color: white;
+}
+
+main {
+}
+
+#leftBar {
+	display: flex;
+	flex-direction: column;
+	padding: 0 10px;
+}
+
+button {
+	background-color: white;
+	color: black;
+	border-width: 0;
+	font-size: 20px;
+	padding: 10px 5px;
+	border-color: gray;
+	border-width: 1px;
+	min-width: fit-content;
+	border-radius: 5px;
+	box-shadow: 0px 0px #ffffff;
+}
+
+.mapControlButton {
+	min-width: 30px;
+	min-height: 30px;
+	border-radius: 8px;
+	font-size: 20px;
+}
+
+#map {
+	width: 100%;
+	height: 100vh;
+}
+
+.shichousonlabel {
+	text-align: center;
+	font-size: 12px;
+}
+
+.popup {
+	width: max-content;
+}
+
+.popuproute {
+	color: gray;
+}
+
+.popuptitle {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.popupbuttoncontainer {
+	display: flex;
+	flex-direction: row;
+	gap: 5px;
+	width: max-content;
+}
+
+.popupbutton {
+	cursor: pointer;
+}
+
+.labelp {
+	width: max-content;
+}
